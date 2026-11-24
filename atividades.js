@@ -46,12 +46,19 @@ const atividades = {
 
     unidade3: [
 
-        /*{
-            titulo: "Atividade Final",
+        {
+            titulo: "Atividade Avaliativa",
             descricao: "PDF da III Unidade.",
             tipo: "pdf",
-            link: "https://drive.google.com/seu-link-aqui"
-        }*/
+            link: "https://drive.google.com/file/d/1Yu0-aInIoY4X-N4vn_eLfhm9zSxXnNyS/view?usp=sharing"
+        },
+
+        {
+            titulo: "Atividade Avaliativa",
+            descricao: "Material da III Unidade.",
+            tipo: "link",
+            link: "https://wordwall.net/play/124706/441/548?wwmethod=link"
+        }
 
     ]
 
