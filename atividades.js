@@ -47,7 +47,7 @@ const atividades = {
     unidade3: [
 
         {
-            titulo: "Atividade Avaliativa",
+            titulo: "Material de Estudo",
             descricao: "PDF da III Unidade.",
             tipo: "pdf",
             link: "https://drive.google.com/file/d/1Yu0-aInIoY4X-N4vn_eLfhm9zSxXnNyS/view?usp=sharing"
